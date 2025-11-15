@@ -1,1 +1,1 @@
-# Lucky
+# create-repository-script
